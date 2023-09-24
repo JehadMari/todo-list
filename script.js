@@ -80,7 +80,6 @@
 
     // Delete task when modal confirmation is given
     document.getElementById('confirmDeleteButton').addEventListener('click', function () {
-        alert(deleteIndexInput)
         const index = deleteIndexInput.value;
         tasks.splice(index, 1);
         updateTaskList();
