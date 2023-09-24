@@ -1,10 +1,10 @@
 Repository Name
 
-Repository Name: ToDo List Web App
+ToDo List Web App
 
 Description
 
-Description: Discover a user-friendly, feature-rich to-do list web application. Manage your tasks effortlessly with add, edit, delete, and clear-all capabilities. Built using HTML, Bootstrap, and JavaScript.
+Discover a user-friendly, feature-rich to-do list web application. Manage your tasks effortlessly with add, edit, delete, and clear-all capabilities. Built using HTML, Bootstrap, and JavaScript.
 
 Key Features
 
